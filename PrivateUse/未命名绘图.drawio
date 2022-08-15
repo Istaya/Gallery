@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-15T03:58:00.958Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="qiffsm-A28NmNgfZmkO4" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-15T04:02:04.233Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="TjkXjFoSfb2sZd4KyRP9" version="20.2.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1210" dy="846" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2118" dy="1480" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -61,7 +61,7 @@
           <mxGeometry y="98" width="186" height="26" as="geometry" />
         </mxCell>
         <mxCell id="koClU784cWXa2UPkRBET-0" value="&lt;h1 style=&quot;&quot;&gt;UE的命名规则&lt;/h1&gt;&lt;div&gt;&lt;font color=&quot;#f00000&quot;&gt;模板类&lt;/font&gt;以&lt;font color=&quot;#f0e000&quot;&gt;T&lt;/font&gt;作为前缀&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#f00000&quot;&gt;TArray，Tmap，Tset UObject&lt;/font&gt;&lt;/b&gt;&lt;font color=&quot;#f00000&quot;&gt;的派生类&lt;/font&gt;都以&lt;font color=&quot;#f0e000&quot;&gt;U&lt;/font&gt;作为前缀&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#f00000&quot;&gt;AActor派生类&lt;/font&gt;都以&lt;font color=&quot;#f0e000&quot;&gt;A&lt;/font&gt;作为前缀&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#f00000&quot;&gt;SWidget派生类&lt;/font&gt;都以&lt;font color=&quot;#f0e000&quot;&gt;S&lt;/font&gt;作为前缀&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#f00000&quot;&gt;抽象接口&lt;/font&gt;以&lt;font color=&quot;#f0e000&quot;&gt;I&lt;/font&gt;作为前缀&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#f00000&quot;&gt;枚举&lt;/font&gt;以&lt;font color=&quot;#f0e000&quot;&gt;E&lt;/font&gt;作为前缀&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#f00000&quot;&gt;bool变量&lt;/font&gt;以&lt;font color=&quot;#f0e000&quot;&gt;b&lt;/font&gt;作为前缀&lt;/div&gt;&lt;div&gt;其余的大部分以&lt;font color=&quot;#f0e000&quot;&gt;F&lt;/font&gt;作为前缀&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#f00000&quot;&gt;typedef&lt;/font&gt;以&lt;font color=&quot;#f0e000&quot;&gt;原型名前缀&lt;/font&gt;作为前缀&lt;/div&gt;&lt;div&gt;在编辑器与C#中，类型名被去掉前缀&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="680" y="680" width="310" height="200" as="geometry" />
+          <mxGeometry x="660" y="680" width="310" height="200" as="geometry" />
         </mxCell>
         <mxCell id="koClU784cWXa2UPkRBET-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#F0E000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="koClU784cWXa2UPkRBET-2" target="koClU784cWXa2UPkRBET-9">
           <mxGeometry relative="1" as="geometry" />
@@ -126,6 +126,11 @@
         <mxCell id="koClU784cWXa2UPkRBET-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#F0E000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="koClU784cWXa2UPkRBET-24" target="koClU784cWXa2UPkRBET-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="koClU784cWXa2UPkRBET-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#F0E000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="koClU784cWXa2UPkRBET-24" target="koClU784cWXa2UPkRBET-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1090" y="1290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="koClU784cWXa2UPkRBET-24" value="UMeshComponent    " style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="870" y="1110" width="224" height="100" as="geometry" />
         </mxCell>
@@ -139,7 +144,7 @@
           <mxGeometry y="58" width="224" height="42" as="geometry" />
         </mxCell>
         <mxCell id="koClU784cWXa2UPkRBET-29" value="UStaticMeshComponent    " style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="870" y="1290" width="224" height="100" as="geometry" />
+          <mxGeometry x="720" y="1290" width="224" height="100" as="geometry" />
         </mxCell>
         <mxCell id="koClU784cWXa2UPkRBET-30" value="void ReceiveTick (float DeltaSeconds);" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="koClU784cWXa2UPkRBET-29">
           <mxGeometry y="26" width="224" height="24" as="geometry" />
@@ -149,6 +154,18 @@
         </mxCell>
         <mxCell id="koClU784cWXa2UPkRBET-32" value="AAcotr* OwnerPrivate;&#xa;Uworld* WorldPrivate;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="koClU784cWXa2UPkRBET-29">
           <mxGeometry y="58" width="224" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="koClU784cWXa2UPkRBET-40" value="" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1070" y="1290" width="160" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="koClU784cWXa2UPkRBET-41" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#F0E000;" vertex="1" parent="koClU784cWXa2UPkRBET-40">
+          <mxGeometry y="26" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="koClU784cWXa2UPkRBET-42" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;fontColor=#F0E000;" vertex="1" parent="koClU784cWXa2UPkRBET-40">
+          <mxGeometry y="52" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="koClU784cWXa2UPkRBET-43" value="+ method(type): type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#F0E000;" vertex="1" parent="koClU784cWXa2UPkRBET-40">
+          <mxGeometry y="60" width="160" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
