@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-10T03:51:59.493Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.5" etag="251IPWti8VyE3Mf-wU5d" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-10T05:10:18.544Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.5" etag="gkqNrMgls7EV59_RavTe" type="github">
   <diagram id="J7vyku3DdvCyJjQhRJDn" name="第 1 页">
-    <mxGraphModel dx="988" dy="554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1193" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -65,10 +65,10 @@
         <mxCell id="4PPtomYR8Qqas5wJuIB3-22" value="用户管理数据库" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="4PPtomYR8Qqas5wJuIB3-21">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4PPtomYR8Qqas5wJuIB3-23" value="Item 2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="4PPtomYR8Qqas5wJuIB3-21">
+        <mxCell id="4PPtomYR8Qqas5wJuIB3-23" value="ATE系统标准数据库" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="4PPtomYR8Qqas5wJuIB3-21">
           <mxGeometry y="60" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4PPtomYR8Qqas5wJuIB3-24" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="4PPtomYR8Qqas5wJuIB3-21">
+        <mxCell id="4PPtomYR8Qqas5wJuIB3-24" value="后期添加" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="4PPtomYR8Qqas5wJuIB3-21">
           <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4PPtomYR8Qqas5wJuIB3-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="4PPtomYR8Qqas5wJuIB3-22" target="4PPtomYR8Qqas5wJuIB3-26">
@@ -116,13 +116,13 @@
           <mxGeometry x="580" y="437.5" width="190" height="75" as="geometry" />
         </mxCell>
         <mxCell id="4PPtomYR8Qqas5wJuIB3-38" value="ERP系统" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="940" y="510" width="90" height="50" as="geometry" />
+          <mxGeometry x="940" y="560" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4PPtomYR8Qqas5wJuIB3-39" value="ATE设备" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="945" y="650" width="80" height="60" as="geometry" />
+          <mxGeometry x="945" y="700" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4PPtomYR8Qqas5wJuIB3-41" value="打流系统" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="940" y="585" width="90" height="50" as="geometry" />
+          <mxGeometry x="940" y="635" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4PPtomYR8Qqas5wJuIB3-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4PPtomYR8Qqas5wJuIB3-15" target="4PPtomYR8Qqas5wJuIB3-43">
           <mxGeometry relative="1" as="geometry">
@@ -137,22 +137,54 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4PPtomYR8Qqas5wJuIB3-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4PPtomYR8Qqas5wJuIB3-43" target="4PPtomYR8Qqas5wJuIB3-39">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="880" y="644" />
-              <mxPoint x="880" y="680" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="4PPtomYR8Qqas5wJuIB3-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4PPtomYR8Qqas5wJuIB3-43" target="4PPtomYR8Qqas5wJuIB3-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4PPtomYR8Qqas5wJuIB3-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4PPtomYR8Qqas5wJuIB3-43" target="4PPtomYR8Qqas5wJuIB3-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4PPtomYR8Qqas5wJuIB3-43" value="1.ERP系统接入,可通过订单号获取相关订单信息&lt;br&gt;2.ATE设备接入,可通过产品型号获取相应ATE程序&lt;br&gt;3.打流系统接入,可索引打流设备所有端口状态&lt;br&gt;4.ATE系统标准数据库访问;查找;增添;修改及删除功能" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="580" y="535" width="190" height="145" as="geometry" />
+        <mxCell id="4PPtomYR8Qqas5wJuIB3-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4PPtomYR8Qqas5wJuIB3-43" target="4PPtomYR8Qqas5wJuIB3-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4PPtomYR8Qqas5wJuIB3-43" value="1.ERP系统接入,可通过订单号获取相关订单信息&lt;br&gt;2.ATE设备接入,可通过产品型号获取相应ATE程序&lt;br&gt;3.打流系统接入,可索引打流设备所有端口状态&lt;br&gt;4.ATE系统标准数据库访问;查找;增添;修改及删除功能&lt;br&gt;5.COM端口自循环功能&lt;br&gt;6.设备序列号(SN)锁定功能" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="580" y="535" width="190" height="185" as="geometry" />
+        </mxCell>
+        <mxCell id="4PPtomYR8Qqas5wJuIB3-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4PPtomYR8Qqas5wJuIB3-28" target="4PPtomYR8Qqas5wJuIB3-51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="720" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="540" y="535" />
+              <mxPoint x="540" y="800" />
+              <mxPoint x="570" y="800" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4PPtomYR8Qqas5wJuIB3-51" value="后期添加" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="770" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="4PPtomYR8Qqas5wJuIB3-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4PPtomYR8Qqas5wJuIB3-9" target="4PPtomYR8Qqas5wJuIB3-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="535" />
+              <mxPoint x="290" y="475" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4PPtomYR8Qqas5wJuIB3-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4PPtomYR8Qqas5wJuIB3-10" target="4PPtomYR8Qqas5wJuIB3-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="310" y="565" />
+              <mxPoint x="310" y="505" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4PPtomYR8Qqas5wJuIB3-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4PPtomYR8Qqas5wJuIB3-17" target="4PPtomYR8Qqas5wJuIB3-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="330" y="595" />
+              <mxPoint x="330" y="535" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
