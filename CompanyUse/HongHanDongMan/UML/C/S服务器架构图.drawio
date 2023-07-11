@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-11T06:02:09.111Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="PULGAvS-BiTx0ZE1GnEs" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-11T06:15:09.790Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="mSWUiP8C84Hilm23ShmO" version="21.2.9" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1434" dy="1973" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1793" dy="2174" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -46,11 +46,11 @@
         <mxCell id="UToBLGLCTju9AQVIdxid-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UToBLGLCTju9AQVIdxid-13" target="UToBLGLCTju9AQVIdxid-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UToBLGLCTju9AQVIdxid-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UToBLGLCTju9AQVIdxid-13" target="UToBLGLCTju9AQVIdxid-48">
+        <mxCell id="UToBLGLCTju9AQVIdxid-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UToBLGLCTju9AQVIdxid-13" target="UToBLGLCTju9AQVIdxid-58">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1013" y="-280" />
-              <mxPoint x="1485" y="-280" />
+              <mxPoint x="1013" y="-290" />
+              <mxPoint x="1455" y="-290" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -99,8 +99,22 @@
         <mxCell id="UToBLGLCTju9AQVIdxid-34" value="退出登录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="953" y="172.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UToBLGLCTju9AQVIdxid-48" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1370" y="-240" width="230" height="190" as="geometry" />
+        <mxCell id="UToBLGLCTju9AQVIdxid-58" value="HH_Map_AllGamer" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1370" y="-240" width="170" height="150" as="geometry">
+            <mxRectangle x="1380" y="-230" width="130" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UToBLGLCTju9AQVIdxid-59" value="HH_Map_AllGamer_Name" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="UToBLGLCTju9AQVIdxid-58">
+          <mxGeometry y="30" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UToBLGLCTju9AQVIdxid-60" value="HH_Map_AllGamer_AbsoluteID" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="UToBLGLCTju9AQVIdxid-58">
+          <mxGeometry y="60" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UToBLGLCTju9AQVIdxid-62" value="HH_Map_AllGamer_LoginIP" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="UToBLGLCTju9AQVIdxid-58">
+          <mxGeometry y="90" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UToBLGLCTju9AQVIdxid-61" value="... ..." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="UToBLGLCTju9AQVIdxid-58">
+          <mxGeometry y="120" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
